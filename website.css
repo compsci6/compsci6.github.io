@@ -1,7 +1,11 @@
 h1{
-  color :red;
-}
+   
+    color :rgba(3, 49, 14, 0.907);
 
-body {
-  background-color: white;
-}
+  
+  }
+  
+  body {
+    background-color: rgba(224, 225, 216, 0.817);
+    
+  }
